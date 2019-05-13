@@ -11,8 +11,7 @@ You begin by clicking on a picture, after that they all reshuffle and you click 
 
 Click here to play!
 
-https://asanchez3315.github.io/Clicky-game/.
-# Technologies used
+https://asanchez3315.github.io/Batman-Memory-Game/ # Technologies used
  React Js
  js
 NPM Packages create react app, github pages for deployment 
