@@ -3,6 +3,7 @@ img {
     border-style: none;
     width: 350px;
     height: 250px;
+    margin-bottom:15px
   }
 
   .wrapper {
@@ -12,4 +13,5 @@ img {
     padding: 25px 0 50px;
     justify-content: space-around;
     align-content: flex-start;
+    background:darkblue
   }
