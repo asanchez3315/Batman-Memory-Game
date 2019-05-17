@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Batman-Memory-Game/precache-manifest.98d3d1a5b271a62a359cae7b4cc3fbe3.js"
+  "/Batman-Memory-Game/precache-manifest.17a10ae3206a010290ffb16107a1ff21.js"
 );
 
 self.addEventListener('message', (event) => {

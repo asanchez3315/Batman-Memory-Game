@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0aafa9935e2ca2e67c3faa20a1ca2698",
+    "revision": "0a374de1695d11c39675912adbe929dd",
     "url": "/Batman-Memory-Game/index.html"
   },
   {
-    "revision": "1089fc897a1903f21fc8",
-    "url": "/Batman-Memory-Game/static/css/main.bd6ff72b.chunk.css"
+    "revision": "9834365920aa6d1ce172",
+    "url": "/Batman-Memory-Game/static/css/main.a5758a8b.chunk.css"
   },
   {
     "revision": "45124f853ba07aa965c0",
     "url": "/Batman-Memory-Game/static/js/2.6efc73d3.chunk.js"
   },
   {
-    "revision": "1089fc897a1903f21fc8",
+    "revision": "9834365920aa6d1ce172",
     "url": "/Batman-Memory-Game/static/js/main.5d99650a.chunk.js"
   },
   {
